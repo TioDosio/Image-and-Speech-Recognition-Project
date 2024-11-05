@@ -6,19 +6,15 @@ Validation of assumptions (preliminary report) (5) 20.11.2024
     Task description
     Algorithm description
     Testing images/recordings selection
-    Each week delay (−2)
-    
+
 Project prototype (6) 18.12.2024
-    Each week delay (−2)
     
 Project final report (10) 22.01.2025
-    Detailed algorithm explanation
-    Example results
-    Results analysis
-    Each week delay (−2)
+Detailed algorithm explanation;
+Example results;
+Results analysis
     
 Project final code (9) 22.01.2025
-    Robustness
-    Overall code style
-    Comments in code
-    Each week delay (−2)
+Robustness;
+Overall code style;
+Comments in code;
