@@ -17,7 +17,7 @@ for i, file in enumerate(files):
     # Check if it's a file (not a subdirectory)
     if os.path.isfile(old_file_path):
         # Construct the new file name and path
-        new_file_name = f"no_mask_{i}{os.path.splitext(file)[1]}"  # Keep the original file extension
+        new_file_name = f"mask_{i}{os.path.splitext(file)[1]}"  # Keep the original file extension
         new_file_path = os.path.join(train_dir, new_file_name)
         
         # Rename the file
